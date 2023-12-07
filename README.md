@@ -1,0 +1,2 @@
+# EmployeemanagerProject
+L'application GestionnaireEmployés est une application web développée pour faciliter la gestion des employés dans une organisation. Elle propose une interface utilisateur intuitive qui permet aux gestionnaires de consulter, ajouter, modifier et supprimer les informations des employés facilement. Le frontend est développé en Angular et le backend en Spring, avec une base de données PostgreSQL
